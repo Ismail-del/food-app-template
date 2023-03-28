@@ -13,7 +13,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <div style={{ textAlign: "center" }}>
-        <h1>Lwalida</h1>
+        <h1>Lwalida app</h1>
       </div>
     </div>
   );
